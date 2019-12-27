@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bac95c2f-5fbb-45a4-8ca5-40a43ccd6905" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="G8M9XA1682206082" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/admin_panel/SlideshowFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/more_apps/ToolsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/more_apps/MoreAppsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/privacy/GalleryFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/privacy/PrivacyFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/rate_us/RateUsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/share/ShareFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/resultList/HomeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/ui/resultList/ResultListFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/feature/resultList/ResultListFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/farhad/bd_edu_results/feature/more_apps/MoreAppsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/drawable/reload.xml" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/MainActivity.java" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/layout/fragment_result_list.xml" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultListFragment.java" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/layout/result_view_model.xml" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkClass.java" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkAdapter.java" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_result_show.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_rate_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/rate_us/RateUsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/privacy/PrivacyFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_privacy.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_more_apps.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_share.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/share/ShareFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_admin_panel.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkClass.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultListFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/admin_panel/AdminPanelFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/SubmitActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_submit.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_result_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/result_view_model.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_all_result_links.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultShowActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/AllResultLinksActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-108" />
+    <option name="y" value="105" />
+    <option name="width" value="860" />
+    <option name="height" value="600" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BD_Edu_Results" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="BD_Edu_Results" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="BD_Edu_Results" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.world_tech_points.bd_edu_results" />
+      <recent name="com.world_tech_points.bd_edu_results.feature.resultList" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\BD_Edu_Results\app\src\main\java\com\world_tech_points\bd_edu_results\feature\resultList" />
+      <recent name="C:\Users\user\Desktop\BD_Edu_Results\app\src\main\res\layout" />
+      <recent name="C:\Users\user\AndroidStudioProjects\BD_Edu_Results\app\src\main\res" />
+      <recent name="C:\Users\user\AndroidStudioProjects\BD_Edu_Results\app\src\main\res\drawable-v24" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bac95c2f-5fbb-45a4-8ca5-40a43ccd6905" name="Default Changelist" comment="" />
+      <created>1576431643726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576431643726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22314675" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.66939443" />
+      <window_info anchor="bottom" id="Logcat" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.32569557" />
+      <window_info anchor="bottom" id="Debug" order="10" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Android WiFi ADB" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.33585477" />
+      <window_info anchor="right" id="Assistant" order="7" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml">
+      <provider editor-type-id="nav-designer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/build.gradle" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/values/colors.xml" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/drawable/reload.xml" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/menu/main.xml" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/menu/activity_main_drawer.xml" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/layout/fragment_result_list.xml" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultListFragment.java" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkClass.java" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkAdapter.java" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/java/com/world_tech_points/bd_edu_results/MainActivity.java" />
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/BD_Edu_Results/app/src/main/res/layout/result_view_model.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_rate_us.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#560#577#0" expanded="true" />
+            <element signature="e#678#696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/rate_us/RateUsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#711#1191#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_privacy.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#560#588#0" expanded="true" />
+            <element signature="e#641#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/privacy/PrivacyFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="111" selection-start-line="34" selection-start-column="108" selection-end-line="34" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_more_apps.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="e#618#636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/more_apps/MoreAppsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/reload.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_share.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="e#602#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/share/ShareFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+          <folding>
+            <element signature="e#753#920#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_admin_panel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="e#577#601#0" expanded="true" />
+            <element signature="e#1362#1378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/refresh.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/admin_panel/AdminPanelFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_result_show.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_submit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/SubmitActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="82" column="37" lean-forward="true" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+          <folding>
+            <element signature="e#2807#3236#0" expanded="true" />
+            <element signature="e#3235#3236#0" expanded="true" />
+            <element signature="e#4994#7018#0" expanded="true" />
+            <element signature="e#5846#6563#0" expanded="true" />
+            <element signature="e#6562#6563#0" expanded="true" />
+            <element signature="e#6586#6949#0" expanded="true" />
+            <element signature="e#6948#6949#0" expanded="true" />
+            <element signature="e#7017#7018#0" expanded="true" />
+            <element signature="e#7041#7364#0" expanded="true" />
+            <element signature="e#7363#7364#0" expanded="true" />
+            <element signature="e#7598#7862#0" expanded="true" />
+            <element signature="e#7861#7862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultLinkAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/result_view_model.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_result_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_all_result_links.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="95" selection-start-line="42" selection-start-column="6" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#234#250#0" expanded="true" />
+            <element signature="e#415#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/feature/resultList/ResultShowActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/world_tech_points/bd_edu_results/AllResultLinksActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
